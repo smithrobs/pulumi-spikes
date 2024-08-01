@@ -1,0 +1,7 @@
+config:
+  gcp-cs-serverless:appPath: ./app
+  gcp-cs-serverless:errorDocument: error.html
+  gcp-cs-serverless:indexDocument: index.html
+  gcp-cs-serverless:sitePath: ./www
+  gcp:project: pulumi-ce-team
+  gcp:region: us-east1

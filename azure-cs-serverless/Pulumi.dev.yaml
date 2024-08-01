@@ -1,0 +1,6 @@
+config:
+  azure-cs-serverless:appPath: ./app
+  azure-cs-serverless:errorDocument: error.html
+  azure-cs-serverless:indexDocument: index.html
+  azure-cs-serverless:sitePath: ./www
+  azure-native:location: EastUS

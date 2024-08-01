@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gcp-cs-serverless", "gcp-cs-serverless.csproj", "{25C1F960-B436-4CC4-9FD2-3378DA07DEDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "app\App.csproj", "{4BC88FD9-3AB3-48E3-B38D-69DFFAF8AFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C1F960-B436-4CC4-9FD2-3378DA07DEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C1F960-B436-4CC4-9FD2-3378DA07DEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C1F960-B436-4CC4-9FD2-3378DA07DEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C1F960-B436-4CC4-9FD2-3378DA07DEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC88FD9-3AB3-48E3-B38D-69DFFAF8AFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC88FD9-3AB3-48E3-B38D-69DFFAF8AFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC88FD9-3AB3-48E3-B38D-69DFFAF8AFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC88FD9-3AB3-48E3-B38D-69DFFAF8AFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A022E06F-A179-4F64-81CC-DCA8F7380F3D}
+	EndGlobalSection
+EndGlobal
